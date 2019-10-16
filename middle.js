@@ -1,5 +1,4 @@
-const middle = arr => {
-  //console.log(arr)
+const middle = arr => {  
   let middleElem = [];
 
   if (arr.length <= 2) {
