@@ -19,6 +19,8 @@ const findKey = (obj, callback) => {
   return result ? result : undefined;
 };
 
+module.exports = findKey;
+
 let objList = {
   "Blue Hill": { stars: 1 },
   "Akaleri":   { stars: 3 },

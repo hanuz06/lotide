@@ -27,6 +27,8 @@ const flatten = arr => {
   return flatArr;
 };
 
+module.exports = flatten;
+
 flatten([1,2,3,[4,5]]);
 assertArraysEqual(flatten([1,2,3,[4,5]]),[1,2,3,4,5]);
 

@@ -17,6 +17,8 @@ const countLetters = str => {
 
 };
 
+module.exports = countLetters;
+
 let actual = countLetters("ehouuse");
 
 assertEqual(actual['h'], 1);
