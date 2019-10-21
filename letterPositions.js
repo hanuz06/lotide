@@ -34,6 +34,6 @@ const letterPositions = function(sentence) {
   return result;
 };
 
-letterPositions('house in my house');
+//letterPositions('house in my house');
 assertArraysEqual(letterPositions("hello").e, [1]);
-assertArraysEqual(letterPositions('house in my house').i, [6]);
+//assertArraysEqual(letterPositions('house in my house').i, [6]);

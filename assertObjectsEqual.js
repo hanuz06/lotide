@@ -8,7 +8,6 @@ const eqArrays = (arr1, arr2) => {
     result = false;
   }
   return result;
-
 };
 
 // Returns true if both objects have identical keys with identical values.
