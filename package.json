@@ -1,8 +1,8 @@
 {
   "name": "@hanuz06/lotide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a mini clone of the [Lodash](https://lodash.com) library.This project was created and published by Andrey Li as part of my learnings at Lighthouse Labs.",
-  "main": "@hanuz06/lotide",
+  "main": "",
   "directories": {
     "test": "mocha"
   },
@@ -20,7 +20,11 @@
     "url": "git+https://github.com/hanuz06/lotide.git"
   },
   "keywords": ["lotide", "hanuz06"],
-  "author": "Andrey Li",
+  "author": {
+    "name": "Andrey Li",
+    "email": "lee1975uz@gmail.com",
+    "url": "https://github.com/hanuz06/lotide"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hanuz06/lotide/issues"
