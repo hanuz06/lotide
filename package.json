@@ -1,6 +1,6 @@
 {
   "name": "@hanuz06/lotide",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This is a mini clone of the [Lodash](https://lodash.com) library.This project was created and published by Andrey Li as part of my learnings at Lighthouse Labs.",
   "main": "",
   "directories": {
