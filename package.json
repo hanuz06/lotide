@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@hanuz06/lotide",
   "version": "1.0.0",
-  "description": "",
-  "main": "assertArraysEqual.js",
+  "description": "This is a mini clone of the [Lodash](https://lodash.com) library.This project was created and published by Andrey Li as part of my learnings at Lighthouse Labs.",
+  "main": "@hanuz06/lotide",
   "directories": {
     "test": "mocha"
   },
@@ -19,8 +19,8 @@
     "type": "git",
     "url": "git+https://github.com/hanuz06/lotide.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["lotide", "hanuz06"],
+  "author": "Andrey Li",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hanuz06/lotide/issues"
